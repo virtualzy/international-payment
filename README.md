@@ -36,8 +36,8 @@
 ![image](javademo.png)
 
 # php插件
-![image](php插件.png)
-![image](php插件1.png)
+![image](php插件.jpg)
+![image](php插件1.jpg)
 
 # 数据库
 ![image](数据库.png)
