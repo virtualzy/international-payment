@@ -48,4 +48,4 @@
 # 对外api
 ![image](接口文档.jpg)
 ![image](接口文档.png)
-![image](接口文档1.jpg)
+![image](接口文档1.png)
