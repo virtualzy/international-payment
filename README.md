@@ -4,7 +4,7 @@
 # 软件架构
 软件架构说明 后台是 java，基于springboot构建， 数据库是 mysql 前端是 ‌Thymeleaf 单体架构，配合ng等可以集群部署
 
-
+![image](微信截图_20250326203517.png) ![image](微信截图_20250326204327.png)
 
 
 加V 可以提供的服务
@@ -23,3 +23,26 @@
 
 扯淡的、吹牛逼的 非诚勿扰！！！
 
+# 管理后台
+![image](管理后台.png)
+![image](管理后台2.png)
+![image](管理后台3.png)
+![image](管理后台4.png)
+
+# 代码
+![image](代码1.png)
+
+# 对接demo
+![image](javademo.png)
+
+# php插件
+![image](php插件.png)
+![image](php插件1.png)
+
+# 数据库
+![image](数据库.png)
+
+# 对外api
+![image](接口文档.jpg)
+![image](接口文档.png)
+![image](接口文档1.jpg)
